@@ -27,7 +27,7 @@ int main() {
         printf("6. Merge Files\n");
         printf("7. Compare Files\n");
         printf("8. Search in File\n");
-        printf("9. Exit\n");
+        printf("9. Exit\n\n");
         printf("Enter option: ");
         scanf("%d", &val);
         getchar();
